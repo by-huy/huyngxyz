@@ -8,11 +8,11 @@
 - Figma
 - TailwindCSS
 
-🙌 Connect with me:
-https://www.huyng.xyz
-https://www.linkedin.com/in/huyngxyz/
-https://www.youtube.com/channel/UCBOAB9RV647G93GxLhEXleA
-https://www.instagram.com/huyngxyz
+🙌 **Connect with me:**
+- Portfolio: https://www.huyng.xyz
+- Linkedin: https://www.linkedin.com/in/huyngxyz/
+- YouTube: https://www.youtube.com/channel/UCBOAB9RV647G93GxLhEXleA
+- Instagram: https://www.instagram.com/huyngxyz
 
 <!--
 **huyngxyz/huyngxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
