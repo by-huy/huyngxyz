@@ -6,6 +6,7 @@
 - React/NextJS(soon)
 - Framer motion
 - Figma
+- Webflow
 - TailwindCSS
 
 🙌 **Connect with me:**
