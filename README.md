@@ -5,9 +5,11 @@
 🪛 **My go to tech-stack:**
 - React/NextJS(soon)
 - Framer motion
+- Contentful
+- TailwindCSS
 - Figma
 - Webflow
-- TailwindCSS
+
 
 🙌 **Connect with me:**
 - Portfolio: https://www.huyng.xyz
