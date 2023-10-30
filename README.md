@@ -1,6 +1,6 @@
-### Hey there, I'm Huy 😁👋
+### Hey there, I'm Huy
 
-🧑‍🦲 I am a freelance frontend developer and web designer.
+I am a freelance frontend developer and web designer.
 
 🪛 **My go to tech-stack:**
 - React/NextJS
@@ -11,7 +11,7 @@
 - Webflow
 
 
-🙌 **Connect with me:**
+**Connect with me:**
 - Portfolio: https://www.huyng.xyz
 - Linkedin: https://www.linkedin.com/in/huyngxyz/
 - YouTube: https://www.youtube.com/channel/UCBOAB9RV647G93GxLhEXleA
