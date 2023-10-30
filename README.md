@@ -3,7 +3,7 @@
 🧑‍🦲 I am a freelance frontend developer and web designer.
 
 🪛 **My go to tech-stack:**
-- React/NextJS(soon)
+- React/NextJS
 - Framer motion
 - Contentful
 - TailwindCSS
