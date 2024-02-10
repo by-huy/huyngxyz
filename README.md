@@ -4,11 +4,12 @@ I am a freelance frontend developer and web designer.
 
 🪛 **My go to tech-stack:**
 - React/NextJS
+- React-Three-Fiber
 - Framer motion
 - Contentful
 - TailwindCSS
 - Figma
-- Webflow
+- Blender
 
 
 **Connect with me:**
